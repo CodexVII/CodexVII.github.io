@@ -2,7 +2,8 @@
 //  File: main.c
 //  Desc: Provides a user interface controlled for the user instructing them on
 //        each process.
-//   
+//  EDITING HERE ATM
+//
 //  Author: Group 3
 //  ID: 13131567
 //  Date: 14/11/14
